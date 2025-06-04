@@ -1,4 +1,4 @@
-# Support de Cours – ITIL 4
+# Syllabus – ITIL 4
 
 **Introduction à la gestion des services IT selon ITIL 4**
 
